@@ -1,0 +1,5641 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,900');
+
+
+.bp1-desktophd {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 10851px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-an-animation-enter {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp1-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp1-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp1-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp1-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp1-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp1-an-animation-enter1 {
+  opacity             : 0;
+  filter              : blur(10px);
+  display             : block;
+  -webkit-animation   : bp1-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  animation           : bp1-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-moz-keyframes bp1-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-o-keyframes bp1-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@keyframes bp1-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+.bp1-desktophd .bp1-logopassinhocolor3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 67px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+}
+.bp1-desktophd .bp1-logopassinhocolor31 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 47px;
+  height              : 44px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+}
+.bp1-desktophd .bp1-passinhotv351umare {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 374px;
+  height              : auto;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-isso351potencializad {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 551px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp1-desktophd .bp1-group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 658px;
+  height              : 46px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 275px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-desktophd .bp1-group:hover {
+  filter              : blur(10px);
+}
+.bp1-desktophd .bp1-group2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 205px;
+  height              : 650px;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 867px;
+}
+.bp1-desktophd .bp1-group2 .bp1-img8425 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : 586px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.bp1-desktophd .bp1-group2 .bp1-pixel2xl29589281280 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 650px;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-oproblema {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1058px;
+  height              : auto;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 616px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-osincentivosentrecopy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1134px;
+  height              : auto;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 387px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-problem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1461px;
+  height              : 23px;
+  width               : 577px;
+  position            : absolute;
+  margin              : 0;
+  left                : 863px;
+}
+.bp1-desktophd .bp1-problem1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1330px;
+  height              : 281px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+}
+.bp1-desktophd .bp1-problem2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1337px;
+  height              : 270px;
+  width               : 601px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.bp1-desktophd .bp1-dinheirodosanuncia {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1657px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 329px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-desktophd .bp1-plataformadev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1657px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 625px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-desktophd .bp1-menosdinheiropara {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1657px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 871px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-desktophd .bp1-solution {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2037px;
+  height              : 715px;
+  width               : 1375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp1-desktophd .bp1-oscriadoresobt352mm {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2753px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-desktophd .bp1-asolu347343o {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1866px;
+  height              : auto;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 616px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-umaplataformadev355 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1942px;
+  height              : auto;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 387px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-porquepassinho {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3177px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-estamosconstruindo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3253px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2955px;
+  height              : 749px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 672px;
+}
+.bp1-desktophd .bp1-group3 .bp1-macpro {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 749px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group3 .bp1-wpassinho1920x1080 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 38px;
+  height              : 485px;
+  width               : 730px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp1-desktophd .bp1-depessoasparapes {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4120px;
+  height              : auto;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-passinhotvoperaco {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4238px;
+  height              : auto;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-algumasdasnovaste {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4368px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp1-desktophd .bp1-peoplepowered {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4027px;
+  height              : 711px;
+  width               : 877px;
+  position            : absolute;
+  margin              : 0;
+  left                : 562px;
+}
+.bp1-desktophd .bp1-comofunciona {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4065px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp1-desktophd .bp1-group1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4992px;
+  height              : 745px;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+}
+.bp1-desktophd .bp1-group1 .bp1-plataformasdev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 622px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group1 .bp1-asatuaisplataforma {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 673px;
+  height              : auto;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group1 .bp1-centralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 545px;
+  width               : 481px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp1-desktophd .bp1-group1 .bp1-criadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 559px;
+  height              : auto;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group1 .bp1-f343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 559px;
+  height              : auto;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 503px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group1 .bp1-plataformadev355deo1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 559px;
+  height              : auto;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4988px;
+  height              : 749px;
+  width               : 597px;
+  position            : absolute;
+  margin              : 0;
+  left                : 777px;
+}
+.bp1-desktophd .bp1-group21 .bp1-plataformadescentra {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 626px;
+  height              : auto;
+  width               : 581px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group21 .bp1-f343seempresaspodem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 677px;
+  height              : auto;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group21 .bp1-criadores1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 563px;
+  height              : auto;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group21 .bp1-patrocinadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 563px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 445px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group21 .bp1-f343s1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 563px;
+  height              : auto;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 382px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.bp1-desktophd .bp1-group21 .bp1-decentralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 554px;
+  width               : 522px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group7 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5891px;
+  height              : 904px;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+}
+.bp1-desktophd .bp1-group7 .bp1-novosmodelosderec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 402px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-oscriadoresdecont {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : 613px;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-iconpatronage {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 178px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-iconupvote {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 178px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+}
+.bp1-desktophd .bp1-group7 .bp1-patronatoporf343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-osf343spodempagard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 441px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-licenciamentodecon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 781px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-sevoc352optarporpa {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 832px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-recompensasparacur {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-odinheiro351dadoao {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 441px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-patrocinadoendossos {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 781px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 35.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-pessoaseempresasp {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 832px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-iconlicensing {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 569px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group7 .bp1-iconsponsor {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 569px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+}
+.bp1-desktophd .bp1-group5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10264px;
+  height              : 353px;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 266px;
+}
+.bp1-desktophd .bp1-group5 .bp1-prontoparamais {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 309px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-group5 .bp1-inscrevasepararec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group5 .bp1-juntesean363snowh {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 267px;
+  height              : auto;
+  width               : 389px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group5 .bp1-group4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 182px;
+  height              : 46px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group5 .bp1-group4 .bp1-rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(168, 206, 56, 1.0);
+}
+.bp1-desktophd .bp1-group5 .bp1-group4 .bp1-meinscreva {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 20.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group5 .bp1-whatsappvectorlogo2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 263px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+}
+.bp1-desktophd .bp1-group5 .bp1-telegramminimalseeklogocom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 325px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+}
+.bp1-desktophd .bp1-group5 .bp1-joinusontelegram {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 325px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group41 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8235px;
+  height              : 858px;
+  width               : 1164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+}
+.bp1-desktophd .bp1-group41 .bp1-imgf2233c18f7aa1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 313px;
+  height              : 420px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 969px;
+}
+.bp1-desktophd .bp1-group41 .bp1-umapalhinhadoapli {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 447px;
+  position            : absolute;
+  margin              : 0;
+  left                : 361px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 208px;
+  height              : 650px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 424px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-img632c800d88601 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 68px;
+  height              : 550px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-rectangle2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 524px;
+  height              : 97px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  opacity             : 0.83;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 545px;
+  height              : 54px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-graphicscustomiconsmiscreversecamera {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : 22px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-graphicscustomiconsmiscreversecamera .bp1-reversecameraicon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 26px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon .bp1-oval {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon .bp1-oval1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 40px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon1 .bp1-oval2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-buttons .bp1-shuttericon1 .bp1-oval3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 30px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+}
+.bp1-desktophd .bp1-group41 .bp1-group22 .bp1-pixel2xl295892812801 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 650px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-img84251 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 273px;
+  height              : 500px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 739px;
+}
+.bp1-desktophd .bp1-group41 .bp1-imgd23de4fda8061 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 313px;
+  height              : 420px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-desktophd .bp1-group41 .bp1-imgfddcb2c3c8ef1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 273px;
+  height              : 500px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+}
+.bp1-desktophd .bp1-group41 .bp1-img8431 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 235px;
+  height              : 61px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 442px;
+}
+.bp1-desktophd .bp1-group41 .bp1-noun581659cc {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 760px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+}
+.bp1-desktophd .bp1-group6 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6936px;
+  height              : 1094px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+}
+.bp1-desktophd .bp1-group6 .bp1-antifr341gilpordesig {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 341px;
+  position            : absolute;
+  margin              : 0;
+  left                : 430px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.bp1-desktophd .bp1-group6 .bp1-arededescentraliza {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 66px;
+  height              : auto;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp1-desktophd .bp1-group6 .bp1-test {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 387px;
+  height              : 707px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-desktop {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 8390px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-an-animation-enter {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp2-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp2-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp2-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp2-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp2-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp2-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp2-an-animation-enter1 {
+  opacity             : 0;
+  filter              : blur(10px);
+  display             : block;
+  -webkit-animation   : bp2-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  animation           : bp2-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp2-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-moz-keyframes bp2-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-o-keyframes bp2-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@keyframes bp2-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+.bp2-desktop .bp2-rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 115px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-logopassinhocolor3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 56px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+}
+.bp2-desktop .bp2-logopassinhocolor31 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 43px;
+  height              : 37px;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+}
+.bp2-desktop .bp2-passinhotv351umare {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 335px;
+  height              : auto;
+  width               : 365px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-isso351potencializad {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 481px;
+  height              : auto;
+  width               : 407px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp2-desktop .bp2-group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 561px;
+  height              : 48px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-desktop .bp2-group:hover {
+  transform           : scale(1.1);
+}
+.bp2-desktop .bp2-group .bp2-rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(168, 206, 56, 1.0);
+}
+.bp2-desktop .bp2-group .bp2-inscrevasepararec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 18.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 248px;
+  height              : 510px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 667px;
+}
+.bp2-desktop .bp2-group2 .bp2-img8425 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : 460px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.bp2-desktop .bp2-group2 .bp2-pixel2xl29589281280 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 510px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-problem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1221px;
+  height              : 17px;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 614px;
+}
+.bp2-desktop .bp2-menosdinheiropara {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1368px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 669px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.bp2-desktop .bp2-oproblema {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 847px;
+  height              : auto;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-osincentivosentrecopy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 923px;
+  height              : auto;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-problem1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1122px;
+  height              : 212px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+}
+.bp2-desktop .bp2-problem2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1127px;
+  height              : 204px;
+  width               : 428px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.bp2-desktop .bp2-dinheirodosanuncia {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1368px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.bp2-desktop .bp2-plataformadev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1368px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 423px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.bp2-desktop .bp2-solution {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1638px;
+  height              : 533px;
+  width               : 1025px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-oscriadoresobt352mm {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2180px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 346px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-desktop .bp2-asolu347343o {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1496px;
+  height              : auto;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 409px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-umaplataformadev355 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1562px;
+  height              : auto;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-porquepassinho {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2485px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-estamosconstruindo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2551px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-group3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2404px;
+  height              : 402px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+}
+.bp2-desktop .bp2-group3 .bp2-macpro {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 402px;
+  width               : 413px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group3 .bp2-wpassinho1920x1080 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 262px;
+  width               : 395px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.bp2-desktop .bp2-depessoasparapes {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3014px;
+  height              : auto;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-passinhotvoperaco {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3118px;
+  height              : auto;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-algumasdasnovaste {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3222px;
+  height              : auto;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.bp2-desktop .bp2-peoplepowered {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3047px;
+  height              : 433px;
+  width               : 535px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+}
+.bp2-desktop .bp2-comofunciona {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2967px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-group1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3676px;
+  height              : 592px;
+  width               : 450px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+}
+.bp2-desktop .bp2-group1 .bp2-plataformasdev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 487px;
+  height              : auto;
+  width               : 441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.bp2-desktop .bp2-group1 .bp2-asatuaisplataforma {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 535px;
+  height              : auto;
+  width               : 417px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-group1 .bp2-centralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 430px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp2-desktop .bp2-group1 .bp2-criadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group1 .bp2-f343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 408px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group1 .bp2-plataformadev355deo1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : 279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3660px;
+  height              : 608px;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 503px;
+}
+.bp2-desktop .bp2-group21 .bp2-plataformadescentra {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 503px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.bp2-desktop .bp2-group21 .bp2-f343seempresaspodem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 551px;
+  height              : auto;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-group21 .bp2-criadores1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 443px;
+  height              : auto;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group21 .bp2-patrocinadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 443px;
+  height              : auto;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 375px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group21 .bp2-f343s1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 443px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.bp2-desktop .bp2-group21 .bp2-decentralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 438px;
+  width               : 431px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.bp2-desktop .bp2-novosmodelosderec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4439px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-oscriadoresdecont {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4511px;
+  height              : auto;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-iconpatronage {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4617px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+}
+.bp2-desktop .bp2-iconupvote {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4617px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 662px;
+}
+.bp2-desktop .bp2-patronatoporf343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4812px;
+  height              : auto;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-osf343spodempagard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4866px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-licenciamentodecon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5203px;
+  height              : auto;
+  width               : 365px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-sevoc352optarporpa {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5257px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-recompensasparacur {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4812px;
+  height              : auto;
+  width               : 365px;
+  position            : absolute;
+  margin              : 0;
+  left                : 637px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-odinheiro351dadoao {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4866px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 632px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-patrocinadoendossos {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5203px;
+  height              : auto;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 637px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 33.0px;
+}
+.bp2-desktop .bp2-pessoaseempresasp {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5257px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 632px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-iconlicensing {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5008px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+}
+.bp2-desktop .bp2-iconsponsor {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5008px;
+  height              : 158px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 662px;
+}
+.bp2-desktop .bp2-antifr341gilpordesig {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5454px;
+  height              : auto;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 363px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-arededescentraliza {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5525px;
+  height              : auto;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 270px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-test {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5786px;
+  height              : 540px;
+  width               : 915px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+}
+.bp2-desktop .bp2-imgf2233c18f7aa1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6756px;
+  height              : 360px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 835px;
+}
+.bp2-desktop .bp2-umapalhinhadoapli {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6491px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-group22 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6667px;
+  height              : 558px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+}
+.bp2-desktop .bp2-group22 .bp2-img632c800d88601 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 58px;
+  height              : 472px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 466px;
+  height              : 54px;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-graphicscustomiconsmiscreversecamera {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 20px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-graphicscustomiconsmiscreversecamera .bp2-reversecameraicon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 23px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon .bp2-oval {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon .bp2-oval1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 42px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon1 .bp2-oval2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-group22 .bp2-buttons .bp2-shuttericon1 .bp2-oval3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 32px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+}
+.bp2-desktop .bp2-group22 .bp2-pixel2xl295892812801 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 557px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-desktop .bp2-img84251 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6722px;
+  height              : 429px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 643px;
+}
+.bp2-desktop .bp2-imgd23de4fda8061 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6756px;
+  height              : 360px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+}
+.bp2-desktop .bp2-imgfddcb2c3c8ef1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6722px;
+  height              : 429px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+}
+.bp2-desktop .bp2-img8431 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6690px;
+  height              : 52px;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 393px;
+}
+.bp2-desktop .bp2-noun581659cc {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7143px;
+  height              : 38px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 491px;
+}
+.bp2-desktop .bp2-prontoparamais {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7498px;
+  height              : auto;
+  width               : 309px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.bp2-desktop .bp2-inscrevasepararec1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7564px;
+  height              : auto;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-juntesean363snowh {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7734px;
+  height              : auto;
+  width               : 389px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.bp2-desktop .bp2-group4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7658px;
+  height              : 24px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+}
+.bp2-desktop .bp2-group4 .bp2-meinscreva {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 20.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp2-desktop .bp2-whatsappvectorlogo2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7726px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+}
+.bp2-desktop .bp2-telegramminimalseeklogocom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7783px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+}
+.bp2-desktop .bp2-joinusontelegram {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7787px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-tablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 7025px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-an-animation-enter {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp3-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp3-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp3-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp3-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp3-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp3-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp3-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp3-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp3-an-animation-enter1 {
+  opacity             : 0;
+  filter              : blur(10px);
+  display             : block;
+  -webkit-animation   : bp3-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : bp3-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : bp3-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  animation           : bp3-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp3-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-moz-keyframes bp3-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-o-keyframes bp3-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@keyframes bp3-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+.bp3-tablet .bp3-rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-logopassinhocolor3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 46px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+}
+.bp3-tablet .bp3-logopassinhocolor31 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 40px;
+  height              : 26px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+}
+.bp3-tablet .bp3-passinhotv351umare {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 196px;
+  height              : auto;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-isso351potencializad {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 340px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.bp3-tablet .bp3-group2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 152px;
+  height              : 366px;
+  width               : 183px;
+  position            : absolute;
+  margin              : 0;
+  left                : 490px;
+}
+.bp3-tablet .bp3-group2 .bp3-img8425 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : 330px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.bp3-tablet .bp3-group2 .bp3-pixel2xl29589281280 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 366px;
+  width               : 183px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 408px;
+  height              : 40px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-tablet .bp3-group:hover {
+  transform           : scale(1.1);
+}
+.bp3-tablet .bp3-group .bp3-rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(168, 206, 56, 1.0);
+}
+.bp3-tablet .bp3-group .bp3-inscrevasepararec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 14.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.bp3-tablet .bp3-problem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 824px;
+  height              : 14px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 430px;
+}
+.bp3-tablet .bp3-menosdinheiropara {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 952px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 488px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.bp3-tablet .bp3-oproblema {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 577px;
+  height              : auto;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 317px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-osincentivosentre {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 633px;
+  height              : auto;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-problem1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 757px;
+  height              : 150px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+}
+.bp3-tablet .bp3-problem2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 760px;
+  height              : 147px;
+  width               : 308px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.bp3-tablet .bp3-dinheirodosanuncia {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 954px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.bp3-tablet .bp3-plataformadev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 954px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 230px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.bp3-tablet .bp3-solution {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1109px;
+  height              : 400px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-oscriadoresobt352mm {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1536px;
+  height              : auto;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.bp3-tablet .bp3-asolu347343o {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1021px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 325px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-umaplataformadev355 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1077px;
+  height              : auto;
+  width               : 664px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-porquepassinho {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1730px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-estamosconstruindo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1784px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-group3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1657px;
+  height              : 286px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 473px;
+}
+.bp3-tablet .bp3-group3 .bp3-macpro {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 286px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group3 .bp3-wpassinho1920x1080 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : 186px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.bp3-tablet .bp3-depessoasparapes {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2146px;
+  height              : auto;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-passinhotvoperaco {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2228px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-algumasdasnovaste {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2296px;
+  height              : auto;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 13.0px;
+}
+.bp3-tablet .bp3-peoplepowered {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2151px;
+  height              : 337px;
+  width               : 417px;
+  position            : absolute;
+  margin              : 0;
+  left                : 351px;
+}
+.bp3-tablet .bp3-comofunciona {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2104px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.bp3-tablet .bp3-group1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2644px;
+  height              : 455px;
+  width               : 441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+}
+.bp3-tablet .bp3-group1 .bp3-plataformasdev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 374px;
+  height              : auto;
+  width               : 441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-group1 .bp3-asatuaisplataforma {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 416px;
+  height              : auto;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 13.0px;
+}
+.bp3-tablet .bp3-group1 .bp3-centralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 318px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp3-tablet .bp3-group1 .bp3-criadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 341px;
+  height              : auto;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group1 .bp3-f343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 341px;
+  height              : auto;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group1 .bp3-plataformadev355deo1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 341px;
+  height              : auto;
+  width               : 203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2632px;
+  height              : 467px;
+  width               : 387px;
+  position            : absolute;
+  margin              : 0;
+  left                : 373px;
+}
+.bp3-tablet .bp3-group21 .bp3-plataformadescentra {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 386px;
+  height              : auto;
+  width               : 387px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-group21 .bp3-f343seempresaspodem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 428px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 13.0px;
+}
+.bp3-tablet .bp3-group21 .bp3-criadores1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 353px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group21 .bp3-patrocinadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 353px;
+  height              : auto;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group21 .bp3-f343s1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 353px;
+  height              : auto;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 277px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 15.0px;
+}
+.bp3-tablet .bp3-group21 .bp3-decentralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 324px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+}
+.bp3-tablet .bp3-novosmodelosderec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3246px;
+  height              : auto;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-oscriadoresdecont {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3292px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-iconpatronage {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3374px;
+  height              : 131px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+}
+.bp3-tablet .bp3-iconupvote {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3374px;
+  height              : 131px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 501px;
+}
+.bp3-tablet .bp3-patronatoporf343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3512px;
+  height              : auto;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-osf343spodempagard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3554px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-licenciamentodecon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3830px;
+  height              : auto;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-sevoc352optarporpa {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3881px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-recompensasparacur {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3512px;
+  height              : auto;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 448px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-odinheiro351dadoao {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3554px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 444px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-patrocinadoendossos {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3830px;
+  height              : auto;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 448px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-pessoaseempresasp {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3881px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 444px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-iconlicensing {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3672px;
+  height              : 131px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+}
+.bp3-tablet .bp3-iconsponsor {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3672px;
+  height              : 131px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 501px;
+}
+.bp3-tablet .bp3-antifr341gilpordesig {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4088px;
+  height              : auto;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-arededescentraliza {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4144px;
+  height              : auto;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-test {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4328px;
+  height              : 412px;
+  width               : 699px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.bp3-tablet .bp3-group4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 4858px;
+  height              : 543px;
+  width               : 730px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.bp3-tablet .bp3-group4 .bp3-imgf2233c18f7aa1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : 270px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 607px;
+}
+.bp3-tablet .bp3-group4 .bp3-umapalhinhadoapli {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-group4 .bp3-group22 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 124px;
+  height              : 418px;
+  width               : 203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 264px;
+}
+.bp3-tablet .bp3-group4 .bp3-group22 .bp3-img632c800d88601 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 43px;
+  height              : 355px;
+  width               : 179px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.bp3-tablet .bp3-group4 .bp3-group22 .bp3-rectangle2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 336px;
+  height              : 64px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  opacity             : 0.83;
+}
+.bp3-tablet .bp3-group4 .bp3-group22 .bp3-pixel2xl295892812801 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 418px;
+  width               : 203px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 467px;
+  height              : 44px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-graphicscustomiconsmiscreversecamera {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 15px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-graphicscustomiconsmiscreversecamera .bp3-reversecameraicon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 17px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon .bp3-oval {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon .bp3-oval1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5px;
+  height              : 34px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon1 .bp3-oval2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-buttons .bp3-shuttericon1 .bp3-oval3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+}
+.bp3-tablet .bp3-group4 .bp3-img84251 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 165px;
+  height              : 322px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 463px;
+}
+.bp3-tablet .bp3-group4 .bp3-imgd23de4fda8061 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : 270px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-tablet .bp3-group4 .bp3-imgfddcb2c3c8ef1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 165px;
+  height              : 322px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+}
+.bp3-tablet .bp3-group4 .bp3-img8431 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 141px;
+  height              : 39px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+}
+.bp3-tablet .bp3-group4 .bp3-noun581659cc {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 472px;
+  height              : 38px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+}
+.bp3-tablet .bp3-prontoparamais {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5843px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.bp3-tablet .bp3-inscrevasepararec1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5905px;
+  height              : auto;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-juntesean363snowh {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6075px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp3-tablet .bp3-group5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5989px;
+  height              : 24px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+}
+.bp3-tablet .bp3-group5 .bp3-meinscreva {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 20.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp3-tablet .bp3-whatsappvectorlogo2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6063px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+}
+.bp3-tablet .bp3-telegramminimalseeklogocom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6120px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+}
+.bp3-tablet .bp3-joinusontelegram {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6128px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-mobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 4385px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-an-animation-enter {
+  opacity             : 0;
+  transform           : scale(1.1);
+  display             : block;
+  -webkit-animation   : bp4-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp4-an-animation-enter-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp4-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-moz-keyframes bp4-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@-o-keyframes bp4-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+@keyframes bp4-an-animation-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: scale(1.1);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: scale(1);
+    }
+}
+.bp4-an-animation-enter1 {
+  opacity             : 0;
+  filter              : blur(10px);
+  display             : block;
+  -webkit-animation   : bp4-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  animation           : bp4-an-animation-enter1-frames 1s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp4-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-moz-keyframes bp4-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@-o-keyframes bp4-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+@keyframes bp4-an-animation-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  filter: blur(10px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  filter: none;
+    }
+}
+.bp4-mobile .bp4-passinhotv351umare {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 148px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-isso351potencializad {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 215px;
+  height              : auto;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 268px;
+  height              : 22px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-mobile .bp4-group:hover {
+  transform           : scale(1.1);
+}
+.bp4-mobile .bp4-group .bp4-rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(168, 206, 56, 1.0);
+}
+.bp4-mobile .bp4-group .bp4-inscrevasepararec {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 5px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 9.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 10.0px;
+}
+.bp4-mobile .bp4-logopassinhocolor3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 31px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+}
+.bp4-mobile .bp4-logopassinhocolor31 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : 18px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+}
+.bp4-mobile .bp4-group2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 118px;
+  height              : 198px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+}
+.bp4-mobile .bp4-group2 .bp4-img8425 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 178px;
+  width               : 86px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+}
+.bp4-mobile .bp4-group2 .bp4-pixel2xl29589281280 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 198px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-oproblema {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 352px;
+  height              : auto;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-osincentivosentrecopy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 388px;
+  height              : auto;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-problem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 489px;
+  height              : 65px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+}
+.bp4-mobile .bp4-problem1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 489px;
+  height              : 65px;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-plataformadev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 564px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-dinheirodosanuncia {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 568px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-problem2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 519px;
+  height              : 5px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 189px;
+}
+.bp4-mobile .bp4-menosdinheiropara {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 564px;
+  height              : auto;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-solution {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 713px;
+  height              : 167px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.bp4-mobile .bp4-oscriadoresobt352mm {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 887px;
+  height              : auto;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-asolu347343o {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 614px;
+  height              : auto;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-umaplataformadev355 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 650px;
+  height              : auto;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-porquepassinho {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1088px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-estamosconstruindo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1120px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-depessoasparapes {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1323px;
+  height              : auto;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-passinhotvoperaco {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1410px;
+  height              : auto;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-algumasdasnovaste {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1522px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-peoplepowered {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1355px;
+  height              : 157px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+}
+.bp4-mobile .bp4-comofunciona {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1297px;
+  height              : auto;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 7.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 8.0px;
+}
+.bp4-mobile .bp4-group3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 970px;
+  height              : 146px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+}
+.bp4-mobile .bp4-group3 .bp4-macpro {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 146px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group3 .bp4-wpassinho1920x1080 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 95px;
+  width               : 144px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+}
+.bp4-mobile .bp4-group5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1689px;
+  height              : 312px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+}
+.bp4-mobile .bp4-group5 .bp4-plataformasdev355deo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 11.0px;
+}
+.bp4-mobile .bp4-group5 .bp4-asatuaisplataforma {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 285px;
+  height              : auto;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-group5 .bp4-centralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 206px;
+  width               : 183px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+}
+.bp4-mobile .bp4-group5 .bp4-criadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-group5 .bp4-plataformadev355deo1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-group5 .bp4-f343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 6.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 7.0px;
+}
+.bp4-mobile .bp4-group4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2069px;
+  height              : 239px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+}
+.bp4-mobile .bp4-group4 .bp4-plataformadescentra {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 11.0px;
+}
+.bp4-mobile .bp4-group4 .bp4-f343seempresaspodem {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 99px;
+  height              : auto;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-group4 .bp4-criadores1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 231px;
+  height              : auto;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 7.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 8.0px;
+}
+.bp4-mobile .bp4-group4 .bp4-patrocinadores {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 231px;
+  height              : auto;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 7.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 8.0px;
+}
+.bp4-mobile .bp4-group4 .bp4-f343s1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 231px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 7.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 8.0px;
+}
+.bp4-mobile .bp4-group4 .bp4-decentralized {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 43px;
+  height              : 182px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+}
+.bp4-mobile .bp4-iconpatronage {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2395px;
+  height              : 82px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 212px;
+}
+.bp4-mobile .bp4-iconupvote {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2541px;
+  height              : 82px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.bp4-mobile .bp4-recompensasparacur {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2552px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-odinheiro351dadoao {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2582px;
+  height              : auto;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-patronatoporf343s {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2368px;
+  height              : auto;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-osf343spodempagard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2418px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-licenciamentodecon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2663px;
+  height              : auto;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-sevoc352optarporpa {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2785px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-iconlicensing {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2687px;
+  height              : 82px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+}
+.bp4-mobile .bp4-patrocinadoendossos {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2850px;
+  height              : auto;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-pessoaseempresasp {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2874px;
+  height              : auto;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-iconsponsor {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2833px;
+  height              : 82px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 216px;
+}
+.bp4-mobile .bp4-antifr341gilpordesig {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2966px;
+  height              : auto;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-arededescentraliza {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2992px;
+  height              : auto;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-group41 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3411px;
+  height              : 209px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.bp4-mobile .bp4-group41 .bp4-imgf2233c18f7aa1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 63px;
+  height              : 113px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 257px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 36px;
+  height              : 173px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-img632c800d88601 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : 147px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-rectangle2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 139px;
+  height              : 27px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  opacity             : 0.83;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 142px;
+  height              : 20px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-graphicscustomiconsmiscreversecamera {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-graphicscustomiconsmiscreversecamera .bp4-reversecameraicon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 8px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon .bp4-oval {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon .bp4-oval1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : 14px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon1 .bp4-oval2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-buttons .bp4-shuttericon1 .bp4-oval3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+}
+.bp4-mobile .bp4-group41 .bp4-group21 .bp4-pixel2xl295892812801 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 172px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+}
+.bp4-mobile .bp4-group41 .bp4-umapalhinhadoapli {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-group41 .bp4-img84251 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : 134px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+}
+.bp4-mobile .bp4-group41 .bp4-imgd23de4fda8061 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 63px;
+  height              : 113px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-mobile .bp4-group41 .bp4-imgfddcb2c3c8ef1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : 134px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+}
+.bp4-mobile .bp4-group41 .bp4-img8431 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 43px;
+  height              : 16px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+}
+.bp4-mobile .bp4-group41 .bp4-noun581659cc {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 181px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.bp4-mobile .bp4-prontoparamais {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3779px;
+  height              : auto;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 14.0px;
+}
+.bp4-mobile .bp4-inscrevasepararec1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3815px;
+  height              : auto;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-juntesean363snowh {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3917px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-group1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3865px;
+  height              : 24px;
+  width               : 137px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+}
+.bp4-mobile .bp4-group1 .bp4-meinscreva {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 137px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : italic;
+  font-size           : 20.0px;
+  color               : rgba(168, 206, 56, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp4-mobile .bp4-joinusontelegram {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3947px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 9.0px;
+}
+.bp4-mobile .bp4-whatsappvectorlogo2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3913px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+}
+.bp4-mobile .bp4-telegramminimalseeklogocom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3942px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+}
+.bp4-mobile .bp4-test {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3125px;
+  height              : 177px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 767px) {
+  .bp4-mobile {
+    display             : block;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : block;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : block;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : block;
+  }
+}
